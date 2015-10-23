@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TouchObjectScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ftlCenterlineGatherer.cs" Line="115" Column="42" />
+      <File FileName="Assets\Scripts\ftlCenterLineManager.cs" Line="135" Column="64" />
+      <File FileName="Assets\Scripts\TouchObjectScript.cs" Line="204" Column="25" />
+      <File FileName="Assets\Scripts\Buttons\StartButton.cs" Line="32" Column="9" />
+      <File FileName="Assets\Scripts\ftlHomeGatherer.cs" Line="22" Column="22" />
+      <File FileName="Assets\Scripts\Buttons\CheckButtons.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
